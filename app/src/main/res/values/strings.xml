@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sesion3.InterfazDeUsuario</string>
+    <string name="codigo">Codigo</string>
+    <string name="nombreLibro">Nombre del Libro</string>
+    <string name="estado">Estado</string>
+    <array name="arrayEstado">
+        <item>Nuevo</item>
+        <item>Seminuevo</item>
+        <item>Usado</item>
+        <item>Otro</item>
+    </array>
+    <string name="guardar">GUARDAR</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="footer">Material Design</string>
+    <string name="header">Biblioteca 3.0</string>
+</resources>
